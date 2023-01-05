@@ -1,4 +1,0 @@
-class Tata{
-public static void main(String[]args){
-System.out.println("Tata is biggest company in india");
-}}
